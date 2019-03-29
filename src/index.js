@@ -1,5 +1,1 @@
-import { stateReducer } from "./stateReduxer";
-
-export default {
-  stateReducer
-};
+export {stateReducer} from './stateReducer';
