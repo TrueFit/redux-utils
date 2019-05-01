@@ -1,17 +1,17 @@
-# truefit-redux-utils
+# @truefit/redux-utils
 
 This library is a set of redux util functions. These are patterns that we have used across projects and found to be helpful.
 
 ## Install
 
 ```bash
-npm install truefit-redux-utils
+npm install @truefit/redux-utils
 ```
 
 or
 
 ```bash
-yarn add truefit-redux-utils
+yarn add @truefit/redux-utils
 ```
 
 ## Reducers
