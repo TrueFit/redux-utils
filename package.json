@@ -1,6 +1,6 @@
 {
   "name": "@truefit/redux-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a set of redux utils",
   "main": "lib/index.js",
   "scripts": {
@@ -14,7 +14,10 @@
     "type": "git",
     "url": "git+https://github.com/TrueFit/redux-utils.git"
   },
-  "author": "Josh Gretz",
+  "authors": [
+    "jgretz",
+    "adamkirkton"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/TrueFit/redux-utils/issues"
